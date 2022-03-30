@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me: Hold my hand
   - UTmail: frederick.meneses@mail.utoronto.ca
-  - Discord: ❅ avi ☽#8929
-  - Instagram: \_.friedrice
+  - Discord: @❅ avi ☽#8929
+  - Instagram: @\_.friedrice
   - LinkedIn: https://www.linkedin.com/in/frederick-meneses-b8932a190/
   - Osu: https://osu.ppy.sh/users/6480103
 
