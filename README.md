@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avinight
+- 👋 Hi, I’m Frederick Meneses!
 - 👀 I’m interested in you!, jk lmao im interested in ur mom! HAHA LOL, no my only interest is YesIStoleTheCookies
 - 🌱 I’m currently learning Math/CS at the University of Toronto
 - 💞️ I’m looking to collaborate on stuff
