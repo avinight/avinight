@@ -6,7 +6,6 @@
   - Discord: @c.27
   - Instagram: @\_.friedrice
   - LinkedIn: https://www.linkedin.com/in/frederick-meneses-b8932a190/
-  - Osu: https://osu.ppy.sh/users/6480103
 
 <!---
 avinight/avinight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
