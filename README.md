@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&duration=5002&pause=1000&color=4DF7BA&background=4822FF00&center=true&vCenter=true&random=true&width=435&lines=Another+roof,+another+proof.+-Paul+Erdos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&duration=5002&pause=1000&color=4DF7BA&background=4822FF00&center=true&vCenter=true&random=true&width=435&lines=Another+roof%2C+another+proof.+-+Paul+Erdos)](https://git.io/typing-svg)
 
 
 * 👋 Hi, I’m Frederick!
