@@ -9,6 +9,9 @@
 
 [![Frederick's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinight)](https://github.com/avinight/github-readme-stats)
 
+
+I have experience with these languages: Python, Java/Kotlin, C/C++, MIPS Assembly, JS/TS, Racket/Haskell
+
 <!---
 avinight/avinight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
