@@ -7,9 +7,6 @@
   - mail: meneses.frederick9@gmail.com
   - discord: @c.27
 
-[![Frederick's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinight)](https://github.com/avinight/github-readme-stats)
-
-
 I have experience with these languages: Python, Java/Kotlin, C/C++, MIPS Assembly, JS/TS, Racket
 
 <!---
