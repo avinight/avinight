@@ -1,5 +1,5 @@
 My loves: 🍵/🫐/🍚/🐟
-* 👋 Hi, I’m Frederick! I'm interested in difficult things. 
+* 👋 Hi, I’m Frederick! I'm interested in difficult things. I've taken Operating Systems.
 * 🌱 I’m currently learning Computer Science at the University of Toronto
 * 📫 You can reach me at meneses.frederick9@gmail.com or on Discord: @c.27
 
